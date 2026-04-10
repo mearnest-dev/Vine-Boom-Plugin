@@ -34,9 +34,3 @@ Vine boom sound effect is included under fair use for comedic purposes.
 ## 👤 Author
 
 Created by dewett wright
-- GitHub: [@dewett-wright](https://github.com/dewett-wright)
-- Itch.io: [dewett-wright.itch.io](https://dewett-wright-dev.itch.io/)
-
-## Issues & Contributions
-
-Shoot me a message anytime - I'll respond.
